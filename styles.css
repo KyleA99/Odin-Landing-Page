@@ -1,10 +1,12 @@
 .body {
     display: flex;
+    background-color: aquamarine;
 }
 
 .header {
     display: flex;
     justify-content: space-between;
+    background-color: aquamarine;
 }
 
 .left, .right {
