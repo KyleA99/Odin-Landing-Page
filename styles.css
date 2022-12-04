@@ -1,3 +1,11 @@
+*,
+*::before,
+*::after { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+}
+
 .body {
     display: flex;
     background-color: aquamarine;
@@ -11,7 +19,7 @@
 
 .left, .right {
     list-style-type: none;
-    padding-left: 0;
     display: flex;
+    margin: 8px;
     gap: 12px;
 }
