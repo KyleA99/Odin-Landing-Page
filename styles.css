@@ -19,14 +19,15 @@
     padding-right: 64px
 }
 
-.left, .right {
+.header-left, .header-right {
     list-style-type: none;
     display: flex;
     margin: 8px;
     gap: 12px;
 }
 
-.left {
+.header-left {
     font-size: 18px;
     font-weight: bold;
 }
+
