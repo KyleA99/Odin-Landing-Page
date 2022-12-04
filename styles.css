@@ -23,3 +23,8 @@
     margin: 8px;
     gap: 12px;
 }
+
+.left {
+    font-size: 18px;
+    font-weight: bold;
+}
