@@ -15,6 +15,8 @@
     display: flex;
     justify-content: space-between;
     background-color: aquamarine;
+    padding-left: 64px;
+    padding-right: 64px
 }
 
 .left, .right {
