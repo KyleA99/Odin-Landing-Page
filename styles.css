@@ -1,7 +1,14 @@
 .body {
-
+    display: flex;
 }
 
-.header .left, .right {
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left, .right {
     list-style-type: none;
+    display: flex;
+    gap: 12px;
 }
