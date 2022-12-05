@@ -9,6 +9,7 @@
 .body {
     display: flex;
     background-color: aquamarine;
+    justify-content: center;
 }
 
 .header {
@@ -33,7 +34,7 @@
 
 .intro {
     display: flex;
-    margin: 100px;
+    padding: 100px;
     background-color: aquamarine;
 }
 
@@ -41,3 +42,15 @@
     display: flex;
     font-size: 50px;
 }
+
+.intro-body {
+    display: flex;
+}
+
+button.sign-up {
+    padding: 4px 12px;
+    border-radius: 8px;
+    background-color: blue;
+    color: white;
+}
+
