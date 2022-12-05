@@ -15,8 +15,8 @@
     display: flex;
     justify-content: space-between;
     background-color: aquamarine;
-    padding-left: 64px;
-    padding-right: 64px
+    padding-left: 92px;
+    padding-right: 92px
 }
 
 .header-left, .header-right {
@@ -31,3 +31,13 @@
     font-weight: bold;
 }
 
+.intro {
+    display: flex;
+    margin: 100px;
+    background-color: aquamarine;
+}
+
+.main-title {
+    display: flex;
+    font-size: 50px;
+}
