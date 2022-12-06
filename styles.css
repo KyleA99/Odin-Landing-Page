@@ -54,3 +54,7 @@ button.sign-up {
     color: white;
 }
 
+.left {
+    display: flex;
+    flex-direction: column;
+}
