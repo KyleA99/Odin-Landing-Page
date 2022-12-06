@@ -36,6 +36,8 @@
     display: flex;
     padding: 100px;
     background-color: aquamarine;
+    justify-content: space-between;
+    gap: 36px;
 }
 
 .main-title {
@@ -54,7 +56,13 @@ button.sign-up {
     color: white;
 }
 
-.left {
+.intro-left {
     display: flex;
     flex-direction: column;
+}
+
+.intro-right {
+    display: flex;
+    background-color: black;
+    color: white;
 }
