@@ -48,6 +48,8 @@
 
 .intro-body {
     display: flex;
+    padding-top: 4px;
+    padding-bottom: 10px;
 }
 
 button.sign-up {
