@@ -54,9 +54,11 @@ button.sign-up {
     border-radius: 8px;
     background-color: blue;
     color: white;
+    flex: 1, 1, 0px;
 }
 
 .intro-left {
+    display: flex;
     flex-direction: column;
 }
 
