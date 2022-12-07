@@ -68,7 +68,7 @@ button.sign-up {
     display: flex;
     background-color: black;
     color: white;
-    text-align: center;
+    justify-content: center;
     align-items: center;
     flex: 1;
 }
