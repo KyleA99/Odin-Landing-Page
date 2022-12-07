@@ -17,7 +17,7 @@
     justify-content: space-between;
     background-color: aquamarine;
     padding-left: 92px;
-    padding-right: 92px
+    padding-right: 92px;
 }
 
 .header-left, .header-right {
@@ -36,8 +36,8 @@
     display: flex;
     padding: 100px;
     background-color: aquamarine;
-    justify-content: space-between;
     gap: 36px;
+    border: 1px solid;
 }
 
 .main-title {
@@ -61,6 +61,9 @@ button.sign-up {
 }
 
 .intro-right {
+    display: flex;
     background-color: black;
     color: white;
+    text-align: center;
+    align-items: center;
 }
