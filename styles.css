@@ -99,8 +99,10 @@ button.sign-up {
 
 .box-1, .box-2, .box-3, .box-4 {
     display: flex;
+    border-radius: 25px;
     background-color: aqua;
-    border: 1px solid;
+    border: 2px solid;
     flex: 1;
+    max-width: 150px;
     height: 150px;
 }
