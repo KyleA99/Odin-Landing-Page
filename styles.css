@@ -174,3 +174,20 @@ button.sign-up {
     color: white;
     justify-content: flex-end;
 }
+
+.footer {
+    display: flex;
+}
+
+.footer-info {
+    display: flex;
+    flex: 1;
+    background-color: rgb(25, 25, 87);
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.footer-text {
+    color: white;
+}
