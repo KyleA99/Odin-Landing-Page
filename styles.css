@@ -84,6 +84,9 @@ button.sign-up {
 
 .section-2 {
     display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 100px;
 }
 
 .section-2-info {
@@ -91,5 +94,8 @@ button.sign-up {
 }
 
 .box-1, .box-2, .box-3, .box-4 {
-    color: aqua;
+    width: 300px;
+    height: auto;
+    background-color: aqua;
+    border: 1px solid;
 }
