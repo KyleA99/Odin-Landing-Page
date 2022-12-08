@@ -151,6 +151,7 @@ button.sign-up {
 
 .section-4-info {
     display: flex;
+    flex: 1;
     justify-content: space-between;
     align-content: center;
     flex-wrap: wrap;
@@ -165,4 +166,10 @@ button.sign-up {
 
 .section-4-title {
     font-size: 24px;
+}
+
+.section-4-right .sign-up {
+    display: flex;
+    color: white;
+    justify-content: flex-end;
 }
