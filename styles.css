@@ -162,6 +162,7 @@ button.sign-up {
     padding-left: 50px;
     padding-right: 50px;
     border-radius: 25px;
+    max-width: 750px;
 }
 
 .section-4-title {
