@@ -138,3 +138,31 @@ button.sign-up {
     font-size: 25px;
     font-weight: bold;
 }
+
+.section-4 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.section-4-info {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    flex-wrap: wrap;
+    background-color: rgb(99, 99, 248);
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 25px;
+}
+
+.section-4-title {
+    font-size: 24px;
+}
