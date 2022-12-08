@@ -104,7 +104,6 @@ button.sign-up {
 .box-1, .box-2, .box-3, .box-4 {
     display: flex;
     border-radius: 25px;
-    background-color: aqua;
     border: 2px solid;
     flex: 1;
     max-width: 150px;
@@ -116,6 +115,7 @@ button.sign-up {
     display: flex;
     justify-content: center;
     align-content: center;
+    background-color: rgb(180, 180, 180);
 }
 
 .section-3-info {
