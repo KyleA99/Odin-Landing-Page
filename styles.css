@@ -122,6 +122,11 @@ button.sign-up {
     display: flex;
     justify-content: center;
     align-content: center;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .quote {
