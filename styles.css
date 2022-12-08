@@ -115,4 +115,20 @@ button.sign-up {
 .section-3 {
     display: flex;
     justify-content: center;
+    align-content: center;
+}
+
+.section-3-info {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.quote {
+    font-size: 40px;
+}
+
+.author {
+    font-size: 25px;
+    font-weight: bold;
 }
