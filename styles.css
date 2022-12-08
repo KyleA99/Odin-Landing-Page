@@ -84,18 +84,21 @@ button.sign-up {
 
 .section-2 {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     gap: 12px;
     padding: 100px;
 }
 
 .section-2-info {
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex: 1;
 }
 
 .box-1, .box-2, .box-3, .box-4 {
-    width: 300px;
-    height: auto;
+    width: 150px;
+    height: 150px;
     background-color: aqua;
     border: 1px solid;
 }
