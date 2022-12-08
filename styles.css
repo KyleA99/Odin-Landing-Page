@@ -111,3 +111,8 @@ button.sign-up {
     height: 150px;
     margin: 10px;
 }
+
+.section-3 {
+    display: flex;
+    justify-content: center;
+}
