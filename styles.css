@@ -32,6 +32,10 @@
     font-weight: bold;
 }
 
+a {
+    text-decoration: none!important;
+}
+
 .intro {
     display: flex;
     padding: 100px;
